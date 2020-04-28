@@ -1,0 +1,671 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://webprotege.stanford.edu/project/Cm3wBeMF7gNL61OHLKlZWX"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://webprotege.stanford.edu/project/Cm3wBeMF7gNL61OHLKlZWX">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R77eV9txbWkwXnbbt55lHro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7boAbG2Uby90jwdV1HeH2P"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7xQ3jZadyrQzVkXLaYlTWW"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R81K6tFFGsKenBMEwgxuDif"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R88hyi6cSW2sVILePrTYuEN"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8NoWVyA9dDYrFIvWkLTf5e"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8TRbjSMr7ubjolkzxq8oAt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8aOmV34vtBScmaeBbTkz6S"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8jEHFQolxegJO1b9EeBoc2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9FQPInMZc2mIJhbrktD5lk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9Vgm0cLTEg2ooecBc0pbcs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RB2H48f1QoEnHeFku1Qd2Sq"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBJTe4KeswemBq24BXGnbNg"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBje4r15bgUUztj8bp2xLFe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBk1vZBZxU9w63R6UOE76lM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBvQuCS1uqxL3WEl5Bnx5O"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RC1x784nqOkWmtLwdMvj3VM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RC8dfg7zjwnoisTkfPKDguk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCQerDTDguK5bzo8Lvbsdew"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCdonwyijT4uEi0ijCeZr0p"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCpwi1SKgg6LG6FtwX9rBsJ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDAQN2hfAnDBIG5ONZexkMg"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDFnFpQzNaP2BxnOiNAcK1h"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDGcw89Iop3rHH7vLWePbE5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDvcmlirgMcIs7TVw0G3LTA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDwXJivNIPTag6XK0ouBUNe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/REnOAoWDKsr0pjHnfqR87F"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RG7wRskW5PBNGaBEuwERfp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RR7OGNgnQGw7mydB6YrP1o"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RUD0CeVBYAWQUmtn8IZpBI"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RaA4COOYbVYHC8FHqgjQYi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RgIAsUCVKGO9vsieio5wAk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RsaAu0ovDJ6AMyz3YLvvjS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RuSUBoqAjalfGSyOqOZUJ1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RwN9yrk6RSYJz5FJ9mjINk"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+    </Declaration>
+    <Declaration>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/Rq3IO74QOUeTN4umVvaOmw"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R77eV9txbWkwXnbbt55lHro"/>
+        <Class IRI="http://webprotege.stanford.edu/R7boAbG2Uby90jwdV1HeH2P"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7boAbG2Uby90jwdV1HeH2P"/>
+        <Class IRI="http://webprotege.stanford.edu/RgIAsUCVKGO9vsieio5wAk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7xQ3jZadyrQzVkXLaYlTWW"/>
+        <Class IRI="http://webprotege.stanford.edu/RC1x784nqOkWmtLwdMvj3VM"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R81K6tFFGsKenBMEwgxuDif"/>
+        <Class IRI="http://webprotege.stanford.edu/RDwXJivNIPTag6XK0ouBUNe"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R88hyi6cSW2sVILePrTYuEN"/>
+        <Class IRI="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8NoWVyA9dDYrFIvWkLTf5e"/>
+        <Class IRI="http://webprotege.stanford.edu/RUD0CeVBYAWQUmtn8IZpBI"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8TRbjSMr7ubjolkzxq8oAt"/>
+        <Class IRI="http://webprotege.stanford.edu/RC1x784nqOkWmtLwdMvj3VM"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8aOmV34vtBScmaeBbTkz6S"/>
+        <Class IRI="http://webprotege.stanford.edu/RBje4r15bgUUztj8bp2xLFe"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8jEHFQolxegJO1b9EeBoc2"/>
+        <Class IRI="http://webprotege.stanford.edu/RBk1vZBZxU9w63R6UOE76lM"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9FQPInMZc2mIJhbrktD5lk"/>
+        <Class IRI="http://webprotege.stanford.edu/RuSUBoqAjalfGSyOqOZUJ1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9Vgm0cLTEg2ooecBc0pbcs"/>
+        <Class IRI="http://webprotege.stanford.edu/R7boAbG2Uby90jwdV1HeH2P"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RB2H48f1QoEnHeFku1Qd2Sq"/>
+        <Class IRI="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBJTe4KeswemBq24BXGnbNg"/>
+        <Class IRI="http://webprotege.stanford.edu/RUD0CeVBYAWQUmtn8IZpBI"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBje4r15bgUUztj8bp2xLFe"/>
+        <Class IRI="http://webprotege.stanford.edu/REnOAoWDKsr0pjHnfqR87F"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBk1vZBZxU9w63R6UOE76lM"/>
+        <Class IRI="http://webprotege.stanford.edu/REnOAoWDKsr0pjHnfqR87F"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBvQuCS1uqxL3WEl5Bnx5O"/>
+        <Class IRI="http://webprotege.stanford.edu/RCpwi1SKgg6LG6FtwX9rBsJ"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RC1x784nqOkWmtLwdMvj3VM"/>
+        <Class IRI="http://webprotege.stanford.edu/RgIAsUCVKGO9vsieio5wAk"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RC8dfg7zjwnoisTkfPKDguk"/>
+        <Class IRI="http://webprotege.stanford.edu/RCpwi1SKgg6LG6FtwX9rBsJ"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCQerDTDguK5bzo8Lvbsdew"/>
+        <Class IRI="http://webprotege.stanford.edu/RBk1vZBZxU9w63R6UOE76lM"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCdonwyijT4uEi0ijCeZr0p"/>
+        <Class IRI="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCpwi1SKgg6LG6FtwX9rBsJ"/>
+        <Class IRI="http://webprotege.stanford.edu/RCdonwyijT4uEi0ijCeZr0p"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDAQN2hfAnDBIG5ONZexkMg"/>
+        <Class IRI="http://webprotege.stanford.edu/RDFnFpQzNaP2BxnOiNAcK1h"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDFnFpQzNaP2BxnOiNAcK1h"/>
+        <Class IRI="http://webprotege.stanford.edu/RCdonwyijT4uEi0ijCeZr0p"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDGcw89Iop3rHH7vLWePbE5"/>
+        <Class IRI="http://webprotege.stanford.edu/RDwXJivNIPTag6XK0ouBUNe"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDvcmlirgMcIs7TVw0G3LTA"/>
+        <Class IRI="http://webprotege.stanford.edu/RR7OGNgnQGw7mydB6YrP1o"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDwXJivNIPTag6XK0ouBUNe"/>
+        <Class IRI="http://webprotege.stanford.edu/RB2H48f1QoEnHeFku1Qd2Sq"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/REnOAoWDKsr0pjHnfqR87F"/>
+        <Class IRI="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RG7wRskW5PBNGaBEuwERfp"/>
+        <Class IRI="http://webprotege.stanford.edu/RBje4r15bgUUztj8bp2xLFe"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RR7OGNgnQGw7mydB6YrP1o"/>
+        <Class IRI="http://webprotege.stanford.edu/R88hyi6cSW2sVILePrTYuEN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RUD0CeVBYAWQUmtn8IZpBI"/>
+        <Class IRI="http://webprotege.stanford.edu/R88hyi6cSW2sVILePrTYuEN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RaA4COOYbVYHC8FHqgjQYi"/>
+        <Class IRI="http://webprotege.stanford.edu/RuSUBoqAjalfGSyOqOZUJ1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RgIAsUCVKGO9vsieio5wAk"/>
+        <Class IRI="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RsaAu0ovDJ6AMyz3YLvvjS"/>
+        <Class IRI="http://webprotege.stanford.edu/RR7OGNgnQGw7mydB6YrP1o"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RuSUBoqAjalfGSyOqOZUJ1"/>
+        <Class IRI="http://webprotege.stanford.edu/RB2H48f1QoEnHeFku1Qd2Sq"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RwN9yrk6RSYJz5FJ9mjINk"/>
+        <Class IRI="http://webprotege.stanford.edu/RDFnFpQzNaP2BxnOiNAcK1h"/>
+    </SubClassOf>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/R77eV9txbWkwXnbbt55lHro</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/R77eV9txbWkwXnbbt55lHro</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">110000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R77eV9txbWkwXnbbt55lHro</IRI>
+        <Literal>301</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7boAbG2Uby90jwdV1HeH2P</IRI>
+        <Literal>Peugeot</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/R7xQ3jZadyrQzVkXLaYlTWW</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/R7xQ3jZadyrQzVkXLaYlTWW</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">100000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7xQ3jZadyrQzVkXLaYlTWW</IRI>
+        <Literal>Clio</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/R81K6tFFGsKenBMEwgxuDif</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/R81K6tFFGsKenBMEwgxuDif</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">195000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R81K6tFFGsKenBMEwgxuDif</IRI>
+        <Literal>Elantra</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R88hyi6cSW2sVILePrTYuEN</IRI>
+        <Literal>İtalya</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/R8NoWVyA9dDYrFIvWkLTf5e</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/R8NoWVyA9dDYrFIvWkLTf5e</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">95000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8NoWVyA9dDYrFIvWkLTf5e</IRI>
+        <Literal>Fiorino</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/R8TRbjSMr7ubjolkzxq8oAt</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/R8TRbjSMr7ubjolkzxq8oAt</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">120000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8TRbjSMr7ubjolkzxq8oAt</IRI>
+        <Literal>Megane</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/R8aOmV34vtBScmaeBbTkz6S</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/R8aOmV34vtBScmaeBbTkz6S</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">300000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8aOmV34vtBScmaeBbTkz6S</IRI>
+        <Literal>3,20</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/R8jEHFQolxegJO1b9EeBoc2</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/R8jEHFQolxegJO1b9EeBoc2</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">275000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8jEHFQolxegJO1b9EeBoc2</IRI>
+        <Literal>A180</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x</IRI>
+        <Literal>model</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP</IRI>
+        <Literal>Otomobil Üreten Ülkeler</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/R9FQPInMZc2mIJhbrktD5lk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/R9FQPInMZc2mIJhbrktD5lk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">180000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9FQPInMZc2mIJhbrktD5lk</IRI>
+        <Literal>Civic</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/R9Vgm0cLTEg2ooecBc0pbcs</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/R9Vgm0cLTEg2ooecBc0pbcs</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">115000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9Vgm0cLTEg2ooecBc0pbcs</IRI>
+        <Literal>306</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB2H48f1QoEnHeFku1Qd2Sq</IRI>
+        <Literal>japonya</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RBJTe4KeswemBq24BXGnbNg</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RBJTe4KeswemBq24BXGnbNg</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">135000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBJTe4KeswemBq24BXGnbNg</IRI>
+        <Literal>Egea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBje4r15bgUUztj8bp2xLFe</IRI>
+        <Literal>Bmw</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBk1vZBZxU9w63R6UOE76lM</IRI>
+        <Literal>Mercedes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RBvQuCS1uqxL3WEl5Bnx5O</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RBvQuCS1uqxL3WEl5Bnx5O</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">495000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBvQuCS1uqxL3WEl5Bnx5O</IRI>
+        <Literal>Mustang</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RC1x784nqOkWmtLwdMvj3VM</IRI>
+        <Literal>Renault</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RC8dfg7zjwnoisTkfPKDguk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RC8dfg7zjwnoisTkfPKDguk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">205000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RC8dfg7zjwnoisTkfPKDguk</IRI>
+        <Literal>Focus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RCQerDTDguK5bzo8Lvbsdew</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RCQerDTDguK5bzo8Lvbsdew</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">480000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCQerDTDguK5bzo8Lvbsdew</IRI>
+        <Literal>Cla 180</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCdonwyijT4uEi0ijCeZr0p</IRI>
+        <Literal>Abd</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCpwi1SKgg6LG6FtwX9rBsJ</IRI>
+        <Literal>Ford</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RDAQN2hfAnDBIG5ONZexkMg</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RDAQN2hfAnDBIG5ONZexkMg</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">95000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDAQN2hfAnDBIG5ONZexkMg</IRI>
+        <Literal>Aveo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDFnFpQzNaP2BxnOiNAcK1h</IRI>
+        <Literal>Chevrolet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RDGcw89Iop3rHH7vLWePbE5</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RDGcw89Iop3rHH7vLWePbE5</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">190000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDGcw89Iop3rHH7vLWePbE5</IRI>
+        <Literal>İ30</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RDvcmlirgMcIs7TVw0G3LTA</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RDvcmlirgMcIs7TVw0G3LTA</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">500000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDvcmlirgMcIs7TVw0G3LTA</IRI>
+        <Literal>Enzo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDwXJivNIPTag6XK0ouBUNe</IRI>
+        <Literal>Hyundai</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/REnOAoWDKsr0pjHnfqR87F</IRI>
+        <Literal>Almanya</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RG7wRskW5PBNGaBEuwERfp</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RG7wRskW5PBNGaBEuwERfp</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">450000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RG7wRskW5PBNGaBEuwERfp</IRI>
+        <Literal>5,20</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S</IRI>
+        <Literal>fiyat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RR7OGNgnQGw7mydB6YrP1o</IRI>
+        <Literal>Ferrari</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RUD0CeVBYAWQUmtn8IZpBI</IRI>
+        <Literal>Fiat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RaA4COOYbVYHC8FHqgjQYi</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2019</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RaA4COOYbVYHC8FHqgjQYi</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">125000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RaA4COOYbVYHC8FHqgjQYi</IRI>
+        <Literal>Jazz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RgIAsUCVKGO9vsieio5wAk</IRI>
+        <Literal>Fransa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rq3IO74QOUeTN4umVvaOmw</IRI>
+        <Literal>price</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RsaAu0ovDJ6AMyz3YLvvjS</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RsaAu0ovDJ6AMyz3YLvvjS</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">750000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RsaAu0ovDJ6AMyz3YLvvjS</IRI>
+        <Literal>F40</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RuSUBoqAjalfGSyOqOZUJ1</IRI>
+        <Literal>Honda</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x"/>
+        <IRI>http://webprotege.stanford.edu/RwN9yrk6RSYJz5FJ9mjINk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2020</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S"/>
+        <IRI>http://webprotege.stanford.edu/RwN9yrk6RSYJz5FJ9mjINk</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">115000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RwN9yrk6RSYJz5FJ9mjINk</IRI>
+        <Literal>Cruze</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+

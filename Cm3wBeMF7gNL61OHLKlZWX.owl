@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/Cm3wBeMF7gNL61OHLKlZWX#"
+     xml:base="http://webprotege.stanford.edu/project/Cm3wBeMF7gNL61OHLKlZWX"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:webprotege="http://webprotege.stanford.edu/">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/Cm3wBeMF7gNL61OHLKlZWX"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/R8jKlewzV6zPLAWTHVItx0x">
+        <rdfs:label>model</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/RHpv1j1JCPv917ZemVPC7S">
+        <rdfs:label>fiyat</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rq3IO74QOUeTN4umVvaOmw -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/Rq3IO74QOUeTN4umVvaOmw">
+        <rdfs:label>price</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R77eV9txbWkwXnbbt55lHro -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R77eV9txbWkwXnbbt55lHro">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7boAbG2Uby90jwdV1HeH2P"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>301</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7boAbG2Uby90jwdV1HeH2P -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7boAbG2Uby90jwdV1HeH2P">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgIAsUCVKGO9vsieio5wAk"/>
+        <rdfs:label>Peugeot</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7xQ3jZadyrQzVkXLaYlTWW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7xQ3jZadyrQzVkXLaYlTWW">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RC1x784nqOkWmtLwdMvj3VM"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Clio</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R81K6tFFGsKenBMEwgxuDif -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R81K6tFFGsKenBMEwgxuDif">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwXJivNIPTag6XK0ouBUNe"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Elantra</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R88hyi6cSW2sVILePrTYuEN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R88hyi6cSW2sVILePrTYuEN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+        <rdfs:label>İtalya</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8NoWVyA9dDYrFIvWkLTf5e -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8NoWVyA9dDYrFIvWkLTf5e">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RUD0CeVBYAWQUmtn8IZpBI"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Fiorino</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8TRbjSMr7ubjolkzxq8oAt -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8TRbjSMr7ubjolkzxq8oAt">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RC1x784nqOkWmtLwdMvj3VM"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Megane</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8aOmV34vtBScmaeBbTkz6S -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8aOmV34vtBScmaeBbTkz6S">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBje4r15bgUUztj8bp2xLFe"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>3,20</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8jEHFQolxegJO1b9EeBoc2 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8jEHFQolxegJO1b9EeBoc2">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBk1vZBZxU9w63R6UOE76lM"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>A180</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP">
+        <rdfs:label>Otomobil Üreten Ülkeler</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9FQPInMZc2mIJhbrktD5lk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9FQPInMZc2mIJhbrktD5lk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RuSUBoqAjalfGSyOqOZUJ1"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Civic</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Vgm0cLTEg2ooecBc0pbcs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9Vgm0cLTEg2ooecBc0pbcs">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7boAbG2Uby90jwdV1HeH2P"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>306</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB2H48f1QoEnHeFku1Qd2Sq -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB2H48f1QoEnHeFku1Qd2Sq">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+        <rdfs:label>japonya</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBJTe4KeswemBq24BXGnbNg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBJTe4KeswemBq24BXGnbNg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RUD0CeVBYAWQUmtn8IZpBI"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Egea</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBje4r15bgUUztj8bp2xLFe -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBje4r15bgUUztj8bp2xLFe">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/REnOAoWDKsr0pjHnfqR87F"/>
+        <rdfs:label>Bmw</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBk1vZBZxU9w63R6UOE76lM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBk1vZBZxU9w63R6UOE76lM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/REnOAoWDKsr0pjHnfqR87F"/>
+        <rdfs:label>Mercedes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBvQuCS1uqxL3WEl5Bnx5O -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBvQuCS1uqxL3WEl5Bnx5O">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCpwi1SKgg6LG6FtwX9rBsJ"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">495000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Mustang</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC1x784nqOkWmtLwdMvj3VM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC1x784nqOkWmtLwdMvj3VM">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RgIAsUCVKGO9vsieio5wAk"/>
+        <rdfs:label>Renault</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC8dfg7zjwnoisTkfPKDguk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC8dfg7zjwnoisTkfPKDguk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCpwi1SKgg6LG6FtwX9rBsJ"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Focus</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCQerDTDguK5bzo8Lvbsdew -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCQerDTDguK5bzo8Lvbsdew">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBk1vZBZxU9w63R6UOE76lM"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">480000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Cla 180</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCdonwyijT4uEi0ijCeZr0p -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCdonwyijT4uEi0ijCeZr0p">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Abd</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCpwi1SKgg6LG6FtwX9rBsJ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCpwi1SKgg6LG6FtwX9rBsJ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCdonwyijT4uEi0ijCeZr0p"/>
+        <rdfs:label>Ford</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDAQN2hfAnDBIG5ONZexkMg -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDAQN2hfAnDBIG5ONZexkMg">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDFnFpQzNaP2BxnOiNAcK1h"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Aveo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDFnFpQzNaP2BxnOiNAcK1h -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDFnFpQzNaP2BxnOiNAcK1h">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCdonwyijT4uEi0ijCeZr0p"/>
+        <rdfs:label>Chevrolet</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDGcw89Iop3rHH7vLWePbE5 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDGcw89Iop3rHH7vLWePbE5">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDwXJivNIPTag6XK0ouBUNe"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>İ30</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDvcmlirgMcIs7TVw0G3LTA -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDvcmlirgMcIs7TVw0G3LTA">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RR7OGNgnQGw7mydB6YrP1o"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">500000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Enzo</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDwXJivNIPTag6XK0ouBUNe -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDwXJivNIPTag6XK0ouBUNe">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB2H48f1QoEnHeFku1Qd2Sq"/>
+        <rdfs:label>Hyundai</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/REnOAoWDKsr0pjHnfqR87F -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/REnOAoWDKsr0pjHnfqR87F">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+        <rdfs:label>Almanya</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RG7wRskW5PBNGaBEuwERfp -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RG7wRskW5PBNGaBEuwERfp">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBje4r15bgUUztj8bp2xLFe"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">450000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>5,20</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RR7OGNgnQGw7mydB6YrP1o -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RR7OGNgnQGw7mydB6YrP1o">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R88hyi6cSW2sVILePrTYuEN"/>
+        <rdfs:label>Ferrari</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RUD0CeVBYAWQUmtn8IZpBI -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RUD0CeVBYAWQUmtn8IZpBI">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R88hyi6cSW2sVILePrTYuEN"/>
+        <rdfs:label>Fiat</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RaA4COOYbVYHC8FHqgjQYi -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RaA4COOYbVYHC8FHqgjQYi">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RuSUBoqAjalfGSyOqOZUJ1"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2019</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Jazz</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RgIAsUCVKGO9vsieio5wAk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RgIAsUCVKGO9vsieio5wAk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R98ahKR2XU6aCUYxzWPRwDP"/>
+        <rdfs:label>Fransa</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RsaAu0ovDJ6AMyz3YLvvjS -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RsaAu0ovDJ6AMyz3YLvvjS">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RR7OGNgnQGw7mydB6YrP1o"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">750000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>F40</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RuSUBoqAjalfGSyOqOZUJ1 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RuSUBoqAjalfGSyOqOZUJ1">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RB2H48f1QoEnHeFku1Qd2Sq"/>
+        <rdfs:label>Honda</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RwN9yrk6RSYJz5FJ9mjINk -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RwN9yrk6RSYJz5FJ9mjINk">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RDFnFpQzNaP2BxnOiNAcK1h"/>
+        <webprotege:R8jKlewzV6zPLAWTHVItx0x rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2020</webprotege:R8jKlewzV6zPLAWTHVItx0x>
+        <webprotege:RHpv1j1JCPv917ZemVPC7S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115000</webprotege:RHpv1j1JCPv917ZemVPC7S>
+        <rdfs:label>Cruze</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
